@@ -1,0 +1,164 @@
+body{
+    font-family: 'roboto', sans-serif;
+}
+/*-------------------HEADER------------------*/
+.link{
+    text-decoration: none;
+}
+.list{
+    list-style: none;
+}
+.header {
+
+}
+.header-nav {
+
+}
+.header-logo {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.33;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2E2F42;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.span-logo {
+    color: #4D5AE5;
+    order: 0;
+}
+.header-list {
+
+}
+.header-item {
+
+}
+.header-link {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    flex: none;
+     order: 0;
+    flex-grow: 0;
+}
+.header-connect {
+
+}
+.header-connect-list {
+
+}
+.header-connect-item {
+    
+}
+.header-connect-link {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+/*-------------------HEADER END------------------*/
+/*-------------------SERCH------------------*/
+.serch {}
+.serch-list {}
+.serch-item {}
+.serch-btn {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.04em;
+    color: #4D5AE5;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.serch-btn:hover {
+    color: #FFFFFF;
+    background: #404BBF;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+}
+.serch-btn:focus {
+    color: #FFFFFF;
+    background: #404BBF;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+}
+/*-------------------SERCH END------------------*/
+/*-------------------CATALOG------------------*/
+.catalog {}
+
+.catalog-list {}
+
+.catalog-item {}
+
+.catalog-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.catalog-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+/*-------------------CATALOG END------------------*/
+/*-------------------FOOTER------------------*/
+.footer {
+    background: #2E2F42;
+}
+.footer-logo {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #F4F4FD;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.link {}
+.footer-span {
+    color: #4D5AE5;
+    order: 0;
+}
+.footer-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #E7E9FC;
+}
+/*-------------------FOOTER END------------------*/
