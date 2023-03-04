@@ -80,7 +80,7 @@ body{
 /*-------------------HEADER END------------------*/
 /*-------------------SERCH------------------*/
 .serch {
-    background-color: #2e2f42;
+   
 }
 .serch-title {
     font-size: 56px;
@@ -133,6 +133,9 @@ body{
     flex: none;
     order: 1;
     flex-grow: 0;
+}
+.catalog-link{
+    text-decoration: none;
 }
 /*-------------------CATALOG END------------------*/
 /*-------------------FOOTER------------------*/
