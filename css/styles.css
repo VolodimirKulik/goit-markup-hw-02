@@ -1,6 +1,6 @@
 body{
-    font-family: 'roboto', sans-serif;
-    color: #2E2F42;
+    font-family: "Roboto", sans-serif;
+    color: #434455;
 }
 /*-------------------HEADER------------------*/
 .link{
@@ -10,29 +10,29 @@ body{
     list-style: none;
 }
 .header {
-
+    font-style: normal;
 }
 .header-nav {
 
 }
 .header-logo {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.33;
+    line-height: 1.17;
     display: flex;
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2E2F42;
+    color: #4d5ae5;
     flex: none;
     order: 1;
     flex-grow: 0;
 }
 
 .span-logo {
-    color: #4D5AE5;
+    color:#2E2F42;
     order: 0;
 }
 .header-list {
@@ -53,7 +53,7 @@ body{
     flex-grow: 0;
 }
 .header-link:hover{
-    color: #404BBF;
+    color:#404bbf;
 }
 .header-connect {
 
@@ -79,7 +79,16 @@ body{
 }
 /*-------------------HEADER END------------------*/
 /*-------------------SERCH------------------*/
-.serch {}
+.serch {
+    background-color: #2e2f42;
+}
+.serch-title {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
 .serch-list {}
 .serch-item {}
 .serch-btn {
