@@ -55,6 +55,9 @@ body{
 .header-link:hover{
     color:#404bbf;
 }
+.header-link:focus{
+    color: #404bbf;
+}
 .header-connect {
 
 }
@@ -78,6 +81,55 @@ body{
     color: #404BBF;
 }
 /*-------------------HEADER END------------------*/
+.service {
+    background-color: #2e2f42;
+}
+
+.service-title {
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.service-btn {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.skill {
+    background-color: #2e2f42;
+}
+
+.skill-title {}
+
+.skill-list {}
+
+.skill-item {}
+
+.skill-text {}
+
+.info {}
+
+.info-title {}
+
+.info-list {}
+
+.info-item {}
+
+.team {}
+
+.team-title {}
+
+.team-list {}
+
+.team-item {}
+
+.team-text {}
 /*-------------------SERCH------------------*/
 .serch {
    
@@ -156,7 +208,6 @@ body{
     order: 1;
     flex-grow: 0;
 }
-.link {}
 .footer-span {
     color: #4D5AE5;
     order: 0;
